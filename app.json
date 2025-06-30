@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "JessNew",
+    "slug": "JessNew",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "jessnew",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-web-browser"
+    ],
+    "extra": {
+      "expoClientId": "1020484235834-3qj6oq8jq8jij5vdtb5ieq848ihn65h1.apps.googleusercontent.com"
+    }
+  }
+}
